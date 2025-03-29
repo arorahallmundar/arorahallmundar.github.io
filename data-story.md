@@ -7,11 +7,11 @@ title: "Week 8 Data Story"
 
 *(Replace this text with your intro)*
 
-![Time series chart](assets/output.png)
+![Time series chart](/assets/output.png)
 
 *(Add a caption and explain what the chart shows)*
 
-![Map of crimes](assets/bokeh.png)
+![Map of crimes](/assets/bokeh.png)
 
 *(Caption for the map goes here)*
 
