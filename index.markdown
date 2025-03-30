@@ -51,7 +51,8 @@ The map below shows **theft density by police district**. The worst-hit district
 In contrast, districts like **Richmond**, **Park**, and **Ingleside** appear significantly safer.  
 This could be due to differences in parking layouts, density, or other social/economic factors.
 
-![Map of crimes](/assets/map.png)
+<iframe src="assets/vehicle_thefts_map.html" width="100%" height="600px"></iframe>
+
 
 ###  When Cars Get Stolen
 
