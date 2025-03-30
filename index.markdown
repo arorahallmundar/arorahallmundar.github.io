@@ -65,7 +65,8 @@ The plot below shows thefts by hour of the day. We see a very clear pattern:
 
 This might correspond to people parking after work, running errands, or attending events — leaving vehicles unattended during higher-risk hours.
 
-![Bokeh plot](/assets/bokeh.png)
+
+<iframe src="assets/boke_plot.html" width="100%" height="600px" frameborder="0"></iframe>
 
 *(Caption for the map goes here)*
 
