@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: SF data Crime Story
+title: SFPD data Crime Story
 #email: 
 #- s242693@dtu.dk
 #- s242744@dtu.dk
