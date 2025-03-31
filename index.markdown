@@ -2,9 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: Welcome
----
-# A Story About Crime in San Francisco
+title: A Story About Crime in San Francisco
+--- 
 
 ### Introduction
 
@@ -37,7 +36,7 @@ From *2020 onward*, there's a slight rise again, perhaps related to COVID-19 dis
 
 ![Time series chart](/assets/output.png)
 
-*(Add a caption and explain what the chart shows)*
+*Figure 1: Vehicle Theft in San Francisco shown in Monthly trends*
 
 ### Where Cars Get Stolen
 
@@ -52,7 +51,7 @@ In contrast, districts like **Richmond**, **Park**, and **Ingleside** appear sig
 This could be due to differences in parking layouts, density, or other social/economic factors.
 
 <iframe src="assets/vehicle_thefts_map.html" width="100%" height="600px"></iframe>
-
+*Figure 2: Map of San Francisco showing theft density by police districts*
 
 ###  When Cars Get Stolen
 
@@ -69,7 +68,7 @@ This might correspond to people parking after work, running errands, or attendin
 
 <iframe src="assets/boke_plot.html" width="100%" height="600px" frameborder="0"></iframe>
 
-*(Caption for the map goes here)*
+*Figure 3: Bokeh plot of thefts in San Francisco for every hour of the day*
 
 ###  Conclusion
 

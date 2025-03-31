@@ -30,9 +30,15 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
+
+minima:
+  header_pages:
+    - index.markdown
+    
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
