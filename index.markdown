@@ -38,6 +38,7 @@ The map below shows that Ingleside, Bayview, and Mission are the worst-hit distr
 After identifying where vehicle thefts are most common, we shift our focus to when they are most likely to occur throughout the day. The Bokeh plot below shows the number of vehicle thefts across all districts by hour of the day. Vehicle thefts are relatively low in the early morning hours but rise throughout the day, peaking in the evening. 
 
 While many sources mention that thefts often occur at night, our findings suggest that incidents are most frequent just before that, during the evening period. Some factors that come first to mind are people parking their cars after work, running errands, or attending events, leaving vehicles unattended during evenings. More research would be needed to fully explain this pattern, but it highlights how local trends may differ from general assumptions.
+
 What’s particularly interesting is the consistency of this pattern across all districts, regardless of their size or location. This suggests that certain hours of the day carry higher risks overall and it's likely driven by shared routines and behaviors across the city.
 
 
