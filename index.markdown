@@ -5,9 +5,9 @@ layout: home
 title: A Story About Crime in San Francisco
 --- 
 
-### Introduction
+## Introduction
 
-This short data story explores **patterns in vehicle thefts** across San Francisco between *2003 and 2024*.  
+This short data story explores patterns in vehicle thefts across San Francisco between *2003 and 2024*.  
 The dataset comes from the *San Francisco Police Department*, and includes details such as:
 
 - Time and date of each incident  
@@ -15,13 +15,9 @@ The dataset comes from the *San Francisco Police Department*, and includes detai
 - Police district  
 - Crime category
 
-Our focus is on understanding:
+Our focus is on understanding when vehicles are most likely to be stolen, where vehicle thefts are most common and how trends have shifted over time.
 
--  *When* cars are most likely to be stolen  
--  *Where* thefts are most common  
--  How trends have shifted over time
-
-###  Monthly Trends Over Time
+##  Monthly Trends Over Time
 
 
 As shown below, vehicle thefts were **very high in the early 2000s**, with some months reaching nearly *1,800 incidents*.  
@@ -38,7 +34,7 @@ From *2020 onward*, there's a slight rise again, perhaps related to COVID-19 dis
 
 *Figure 1: Vehicle Theft in San Francisco shown in Monthly trends*
 
-### Where Cars Get Stolen
+## Where Cars Get Stolen
 
 
 The map below shows **theft density by police district**. The worst-hit districts are:
@@ -53,7 +49,7 @@ This could be due to differences in parking layouts, density, or other social/ec
 <iframe src="assets/vehicle_thefts_map.html" width="100%" height="600px"></iframe>
 *Figure 2: Map of San Francisco showing theft density by police districts*
 
-###  When Cars Get Stolen
+##  When Cars Get Stolen
 
 
 
@@ -70,7 +66,7 @@ This might correspond to people parking after work, running errands, or attendin
 
 *Figure 3: Bokeh plot of thefts in San Francisco for every hour of the day*
 
-###  Conclusion
+##  Conclusion
 
 Vehicle thefts in San Francisco have **changed dramatically over the past 20 years**.  
 This short data story shows:

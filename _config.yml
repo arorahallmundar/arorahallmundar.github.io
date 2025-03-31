@@ -29,12 +29,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Through visuals and insights, we explore how, when, and where car thefts occurred—and what patterns emerged over time.
 
 authors:
-  - name: Arora Hallmundar
+  - name: Arora Hallmundardottir
     email: s242693@dtu.dk
-    github: arorahallmundar
-  - name: Tinna Sol
+  - name: Tinna Sol Bjorgvinsdottir
     email: s242744@dtu.dk
-  - name: Nanna Kristin
+  - name: Nanna Kristin Bjarnadottir
     email: s242689@dtu.dk
 
 
@@ -48,9 +47,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 
-minima:
-  header_pages:
-    - index.markdown
+#minima:
+#  header_pages:
+#    - index.markdown
 
 theme: minima
 plugins:
