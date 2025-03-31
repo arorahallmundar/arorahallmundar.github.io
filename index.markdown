@@ -4,7 +4,7 @@
 layout: home
 title: A Story About Vehicle Theft Crimes in San Francisco
 --- 
-
+Authors: 
 ## Introduction
 
 This data story explores patterns in vehicle thefts across San Francisco between 2003 and 2024, using open data from the [San Francisco Police Department](https://datasf.org/opendata/). The dataset includes information on the time, location, and police district of each reported incident.
@@ -35,9 +35,7 @@ The map below shows that Ingleside, Bayview, and Mission are the worst-hit distr
 
 ##  When Cars Get Stolen
 
-After identifying where vehicle thefts are most common, we shift our focus to when they are most likely to occur throughout the day. The Bokeh plot below shows that incidents are relatively low during the early morning hours (around 3–6 a.m.), increase throughout the day, and peak during the evening.
-
-This might correspond to people parking after work, running errands, or attending events — leaving vehicles unattended during higher-risk hours.
+After identifying where vehicle thefts are most common, we shift our focus to when they are most likely to occur throughout the day. The Bokeh plot below shows that vehicle thefts are relatively low in the early morning hours but rise throughout the day, peaking in the evening. While many sources mention that thefts often occur at night, our findings suggest that incidents are most frequent just before that, during the evening period. Some factors that come first to mind are people parking their cars after work, running errands, or attending events, leaving vehicles unattended during evenings. More research would be needed to fully explain this pattern, but it highlights how local trends may differ from general assumptions.
 
 
 <iframe src="assets/boke_plotnew.html" width="100%" height="600px" frameborder="0"></iframe>
@@ -46,20 +44,12 @@ This might correspond to people parking after work, running errands, or attendin
 
 ##  Conclusion
 
-Vehicle thefts in San Francisco have changed dramatically over the past 20 years.  
-This short data story shows:
+Over the past 20 years, vehicle thefts in San Francisco have followed clear and meaningful patterns. Our analysis shows a major decline in thefts beginning around 2006, likely influenced by improvements in car security, surveillance, and policy changes. However, this long-term drop is interrupted by a noticeable rise after 2020, reflecting broader national trends linked to the pandemic and its disruptions.
 
--  A *major decline* in thefts from 2003 to 2014  
--  *Geographic hotspots* that remain consistently high-risk  
--  *Time-of-day patterns* that suggest when cars are most vulnerable
-
-Understanding these patterns is helpful for:
-
-- Citizens looking to reduce risk  
-- Policymakers targeting patrols  
-- Anyone interested in how data reveals city dynamics
+We also find that thefts are not evenly distributed across the city and certain districts remain persistent hotspots. In addition, thefts tend to occur more often during the evening hours, when vehicles are more likely to be left unattended and it's darker outside. These insights offer a brief overview of how vehicle theft crime in San Francisco has evolved, and how data can help us understand the conditions that shape it.
 
 ## Contributors
+Since one group member was responsible for pushing updates to the website, we decided to work closely together on all aspects of the project. We didn’t divide tasks, but instead collaborated throughout the assignment.
 
 <ul>
   {% for person in site.authors %}
