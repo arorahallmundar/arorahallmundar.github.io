@@ -85,7 +85,16 @@ Understanding these patterns is helpful for:
 - Policymakers targeting patrols  
 - Anyone interested in how data reveals city dynamics
 
+## Contributors
 
-<div>
-  <!-- This is where we will embed the Bokeh plot later -->
-</div>
+<ul>
+  {% for person in site.authors %}
+    <li>
+      {{ person.name }} —
+      <a href="mailto:{{ person.email }}">{{ person.email }}</a>
+      {% if person.github %}
+        | <a href="https://github.com/{{ person.github }}">GitHub</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
