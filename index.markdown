@@ -27,20 +27,15 @@ While thefts continue decreasing into the 2010s, our data shows a slight uptick 
 ## Where Cars Get Stolen
 Now that we've looked at overall trends over time, we take a closer look at where vehicle thefts are happening. By mapping the number of thefts across police districts in San Francisco, we can identify which areas are most affected. Each district is shaded based on the total number of incidents from 2003 to 2024.
 
-The map below shows that Ingleside, Bayview, and Mission are the worst-hit districts, with the highest number of reported thefts. In contrast, areas like Tenderloin, Park, Richmond, and Central appear significantly safer. These differences could reflect a range of local factors, but further analysis would be needed to understand the underlying causes.
+The map below shows that Ingleside, Bayview, and Mission are the worst-hit districts, with the highest number of reported thefts. In contrast, areas like Tenderloin, Park, Richmond, and Central appear significantly safer. These differences could reflect a range of local factors. According to the FBI’s Variables Affecting Crime report, it’s difficult to make meaningful comparison about crime rates between places without considering broader social and institutional factors.
+
 
 <iframe src="assets/vehicle_thefts_map.html" width="100%" height="600px"></iframe>
 *Figure 2: Map of San Francisco showing theft density by police districts*
 
 ##  When Cars Get Stolen
 
-
-
-The plot below shows thefts by hour of the day. We see a very clear pattern:
-
-- Thefts are lowest between 3–6 a.m.
-- They rise steadily throughout the day
-- And they peak between 5–9 p.m.
+After identifying where vehicle thefts are most common, we shift our focus to when they are most likely to occur throughout the day. The Bokeh plot below shows that incidents are relatively low during the early morning hours (around 3–6 a.m.), increase throughout the day, and peak during the evening.
 
 This might correspond to people parking after work, running errands, or attending events — leaving vehicles unattended during higher-risk hours.
 
