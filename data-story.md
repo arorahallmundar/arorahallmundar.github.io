@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Week 8 Data Story"
+#title: "Week 8 Data Story"
 ---
 
 # A Story About Crime in San Francisco
