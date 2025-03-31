@@ -19,11 +19,15 @@ Our focus is on understanding when vehicles are most likely to be stolen, where 
 
 ##  Monthly Trends Over Time
 
-The first thing we wanted to explore was how vehicle thefts evolved over time. By looking at the monthly trends from 2003 to 2024, we were able to get a clear overview of when car thefts were most frequent, and how patterns shifted over the years
+The first thing we wanted to explore was how vehicle thefts evolved over time. By looking at the monthly trends from 2003 to 2024, we were able to get a clear overview of when vehicle thefts were most frequent, and how patterns shifted over the years
 As shown below, vehicle thefts were high in the early 2000s, peaking in 2005 with nearly 1,800 incidents.
 Starting around 2006, thefts began a steady decline. Our group discussed several possible reasons for this trend, including improvements in car anti-theft systems, enhanced urban surveillance, or internal policy changes within the city.
 
 While vehicle thefts steadily declined after the mid-2000s, our data shows a slight uptick beginning in 2020. This recent rise aligns with national trends highlighted by the [Council on Criminal Justice](https://counciloncj.org/trends-in-carjacking-what-you-need-to-know/), which observed increases in carjackings across major U.S. cities, including San Francisco, during the pandemic years. Experts suggest that this may be linked to COVID-19 disruptions, economic stressors, and a breakdown in routine policing and community structures.
+The steady decline in vehicle thefts after the early 2000s is supported by broader national trends. According to a 2014 New York Times article, advances in car security — particularly electronic immobilizers — made it significantly harder to steal modern vehicles. Combined with better car design and enforcement strategies, these developments contributed to a dramatic drop in thefts across the U.S., including in San Francisco.
+
+The decline in vehicle thefts after the early 2000s aligns with national trends. A [New York Times article](https://www.nytimes.com/2014/08/12/upshot/heres-why-stealing-cars-went-out-of-fashion.html) links this drop to improved car security, such as electronic immobilizers and smart keys, which made newer vehicles much harder to steal. While the article focuses on New York, these technologies were adopted nationwide, likely contributing to similar declines in San Francisco.
+
 
 ![Time series chart](/assets/output.png)
 
@@ -64,7 +68,7 @@ This might correspond to people parking after work, running errands, or attendin
 
 ##  Conclusion
 
-Vehicle thefts in San Francisco have **changed dramatically over the past 20 years**.  
+Vehicle thefts in San Francisco have changed dramatically over the past 20 years.  
 This short data story shows:
 
 -  A *major decline* in thefts from 2003 to 2014  

@@ -26,7 +26,7 @@ title: SFPD data Crime Story
 
 description: >- # this means to ignore newlines until "baseurl:"
   An interactive data story analyzing vehicle thefts in San Francisco between 2003 and 2024.
-  Through visuals and insights, we explore how, when, and where car thefts occurred—and what patterns emerged over time.
+  Through visuals and insights, we explore how, when, and where car thefts occurred, and what patterns emerged over time.
 
 authors:
   - name: Arora Hallmundardottir
