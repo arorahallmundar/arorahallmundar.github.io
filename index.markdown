@@ -35,15 +35,15 @@ While vehicle thefts steadily declined after the mid-2000s, our data shows a sli
 *Figure 1: Vehicle Theft in San Francisco shown in Monthly trends*
 
 ## Where Cars Get Stolen
+Now that we've looked at overall trends over time, let's take a closer look at where vehicle thefts are happening. By mapping the number of thefts across police districts in San Francisco, we can identify which areas have been most affected. Each district is shaded based on the total number of incidents.
 
-Using police district boundaries and crime data from 2003 to 2024, we created a choropleth map showing the number of vehicle thefts per district. Each district is shaded based on the total number of incidents.
 The map below shows theft density by police district. The worst-hit districts are:
 
 - Ingleside  
 - Bayview
 - Mission
 
-In contrast, districts like Park, Richmond and Central appear significantly safer.  
+In contrast, districts like Tenderloin, Park, Richmond and Central appear significantly safer.  
 This could be due to differences in parking layouts, density, or other social/economic factors. 
 
 
