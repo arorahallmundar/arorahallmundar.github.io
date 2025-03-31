@@ -2,20 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: A Story About Car Theft Crimes in San Francisco
+title: A Story About Vehicle Theft Crimes in San Francisco
 --- 
 
 ## Introduction
 
-This short data story explores patterns in vehicle thefts across San Francisco between *2003 and 2024*.  
-The dataset comes from the *San Francisco Police Department*, and includes details such as:
+This data story explores patterns in vehicle thefts across San Francisco between 2003 and 2024, using open data from the [San Francisco Police Department](https://datasf.org/opendata/). The dataset includes information on the time, location, and police district of each reported incident.
 
-- Time and date of each incident  
-- Geographic coordinates  
-- Police district  
-- Crime category
+Our goal is to understand when and where vehicle thefts are most common, and how those patterns have changed over time. The project connects to broader discussions around predictive policing, a practice that uses crime data to anticipate future incidents. For more background, see [this article](https://www.science.org/content/article/can-predictive-policing-prevent-crime-it-happens) on predictive policing used in our class. By using visualizations, we aim to uncover meaningful trends in the data, offering insights into how thefts fluctuate month to month, which areas are most affected, and what time of day cars are most at risk.
 
-Our focus is on understanding when vehicles are most likely to be stolen, where vehicle thefts are most common and how trends have shifted over time.
 
 ##  Monthly Trends Over Time
 
